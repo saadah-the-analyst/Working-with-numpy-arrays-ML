@@ -61,7 +61,9 @@ Hospital management observed significant fluctuations and operational delays in 
 * **Operational Extremes:** Individual wait times spanned from a rapid minimum of **15 minutes** to a concerning maximum peak of **70 minutes**, highlighting substantial volatility in queue processing efficiency between different operating shifts.
 * **Targeted Intervention & Predictive Insights:** Boolean filtering revealed that exactly **40.0% of patients** experienced wait times exceeding the facility average. In an advanced machine learning pipeline, this flagged subset serves as a target training group for classification algorithms designed to predict which incoming patients are most at risk of experiencing severe operational delays, allowing management to proactively deploy supplemental nursing staff.
 
-![Hospital Patient Waiting-Time Analysis Execution](hospital_analysis_output.png)
+### Code Snippets
+![Hospital Patient Waiting-Time Analysis Execution](1.png)
+![Hospital Patient Waiting-Time Analysis Execution](2.png)
 
 ---
 
@@ -109,7 +111,9 @@ An online retail and e-commerce enterprise recorded 10 consecutive days of daily
 * **Sales Team Compensation:** Scalar array multiplication accurately computed individual daily commissions, resulting in a total commission payout allocation of **N75,150.00** across the sales workforce, ensuring transparent and automated compensation tracking.
 * **Consistency & Predictive Modeling Insights:** Boolean filtering demonstrated that **50% of the recorded days** outperformed the baseline daily average, proving that the business maintains steady mid-tier momentum supplemented by high-revenue surge days. In machine learning forecasting, recognizing these variance patterns helps prevent overfitting when training models on volatile commercial data.
 
-![Retail Sales Performance Analysis Execution](retail_analysis_output.png)
+### Code Snippets
+![Retail Sales Performance Analysis Execution](3.png)
+![Retail Sales Performance Analysis Execution](4.png)
 
 ---
 
@@ -167,14 +171,9 @@ A manufacturing facility monitoring 24-hour electricity consumption needed to an
 * **Exact Peak Localization:** Positional indexing via `np.argmax` identified that the absolute highest energy spike of **230 kWh** occurred precisely during **Hour 9**, giving plant management an exact target for automated load-shifting algorithms.
 * **Strategic Efficiency & Model Simulation Impact:** Implementing the 8% efficiency reduction program will successfully yield a total savings of **344.8 kWh** over the 24-hour cycle. In machine learning engineering, simulating scenarios like this allows data scientists to evaluate feature modification impacts before deploying automated energy-control systems into production environments.
 
-![Energy Consumption Analysis Execution - Part 1](image_15.png)
-![Energy Consumption Analysis Execution - Part 2](image_16.png)
-![Energy Consumption Analysis Execution - Part 3](image_17.png)
-![Energy Consumption Analysis Execution - Part 4](image_18.png)
-![Energy Consumption Analysis Execution - Part 5](image_19.png)
-![Energy Consumption Analysis Execution - Part 6](image_20.png)
-![Energy Consumption Analysis Execution - Part 7](image_21.png)
-![Energy Consumption Analysis Execution - Part 8](image_22.png)
+### Code Snippets
+![Energy Consumption Analysis Execution - Part 1](5.png)
+![Energy Consumption Analysis Execution - Part 2](6.png)
 
 ---
 
