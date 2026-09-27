@@ -1,6 +1,6 @@
 # Working-with-numpy-arrays-ML
 
-# Comprehensive Data Analysis & Advanced Machine Learning Foundations Portfolio: NumPy Arrays, Vectorized Mathematics & Numerical Computation Engines
+# Data Analysis &  Machine Learning Foundations Portfolio: NumPy Arrays, Vectorized Mathematics & Numerical Computation Engines
 
 ## Project Overview & Technical Execution Environment
 Welcome to my complete data analytics and machine learning foundation repository! This project serves as a rigorous, extensive, highly detailed, and hands-on exploration of numerical computing, array vectorization, underlying matrix mathematics, and data manipulation using Python and NumPy. Across three distinct industrial case studies—Healthcare Queue Optimization, Retail Sales Analytics, and Industrial Energy Forecasting—this project demonstrates how raw, unstructured numerical inputs are systematically transformed into robust, actionable, and predictive business intelligence. By bypassing slow, traditional Python iteration loops and instead harnessing NumPy's optimized low-level C array architecture, this repository highlights modern data-processing, feature-engineering, and computational optimization techniques designed for extreme speed, memory efficiency, and industrial scalability.
@@ -186,6 +186,7 @@ A manufacturing facility monitoring 24-hour electricity consumption needed to an
 ---
 
 ## Project Metadata & Computational Resources
+* **Author:** Muhyideen Saadah 
 * **GitHub Repository:** [saadah-the-analyst](https://github.com/saadah-the-analyst)
 * **Tools, Technologies & Execution Environments Used:** 
   * Python (Programming Language)
