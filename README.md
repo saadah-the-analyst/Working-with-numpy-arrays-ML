@@ -62,7 +62,7 @@ Hospital management observed significant fluctuations and operational delays in 
 * **Targeted Intervention & Predictive Insights:** Boolean filtering revealed that exactly **40.0% of patients** experienced wait times exceeding the facility average. In an advanced machine learning pipeline, this flagged subset serves as a target training group for classification algorithms designed to predict which incoming patients are most at risk of experiencing severe operational delays, allowing management to proactively deploy supplemental nursing staff.
 
 ### Code Snippets
-![Hospital Patient Waiting-Time Analysis Execution](1.png)
+![Hospital Patient Waiting-Time Analysis Execution](1 .png)
 ![Hospital Patient Waiting-Time Analysis Execution](2.png)
 
 ---
